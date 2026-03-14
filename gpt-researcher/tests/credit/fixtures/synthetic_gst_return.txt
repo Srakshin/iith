@@ -1,0 +1,9 @@
+GST Return Summary
+GSTIN: 29ABCDE1234F1Z5
+Return Period: Apr 2024 to Jun 2024
+Taxable Turnover: INR 8,700,000
+Output Tax: INR 1,566,000
+Nil Rated Supplies: INR 120,000
+Apr 2024 Turnover INR 2,600,000
+May 2024 Turnover INR 2,900,000
+Jun 2024 Turnover INR 3,200,000

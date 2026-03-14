@@ -1,0 +1,15 @@
+Bank Statement
+Bank Name: State Bank of India
+Account Number: 12345678901
+Statement Period: Apr 2024 - Jun 2024
+Total Credits: INR 8,250,000
+Total Debits: INR 7,650,000
+Avg Monthly Balance: INR 340,000
+Cash Deposits: INR 1,850,000
+Same Day In-Out: INR 3,250,000
+Round Amount Credits: INR 2,200,000
+Top Counterparty Share: 52%
+Cheque Returns: 4
+Apr 2024 Credits INR 2,550,000 Debits INR 2,420,000 Closing Balance INR 300,000
+May 2024 Credits INR 2,700,000 Debits INR 2,510,000 Closing Balance INR 340,000
+Jun 2024 Credits INR 3,000,000 Debits INR 2,720,000 Closing Balance INR 380,000

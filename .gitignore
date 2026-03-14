@@ -1,0 +1,9 @@
+# Local test caches with restricted permissions.
+/gpt-researcher/.pytest-tmp/
+/gpt-researcher/pytest-cache-files-*/
+/gpt-researcher/pytest_temp/
+
+# Backups of previous nested Git repositories after detaching them.
+/docling/.git-detached-backup/
+/gpt-researcher/.git-detached-backup/
+/surya/.git-detached-backup/

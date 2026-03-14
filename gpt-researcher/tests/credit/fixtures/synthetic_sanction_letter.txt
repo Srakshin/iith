@@ -1,0 +1,8 @@
+Loan Sanction Letter
+Sanctioned Amount: INR 16,000,000
+Interest Rate: 12.5%
+Tenor: 36
+Lender: State Bank of India
+Facility Type: Working Capital Cash Credit
+Security: Hypothecation of stock and receivables with personal guarantee
+Monthly stock statement and escrow routing required.
